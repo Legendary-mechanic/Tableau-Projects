@@ -13,7 +13,7 @@ This project demonstrates:
 Tableau Public
 
 #### PREVIEW
-![dashboard](https://github.com/Legendary-mechanic/Project-4/assets/69748230/7656a5e2-e15d-413f-9080-93a537db7a74)
+![dashboard](https://github.com/Legendary-mechanic/Tableau-Projects/assets/69748230/1617b96e-50d5-4651-81d7-afa2ffb7c809)
 
 #### LINK TO TABLEAU PUBLIC 
 [DASHBOARD](https://public.tableau.com/app/profile/kumar.sourabh7642/viz/Book1_16867315959990/PRIMEDASHBOARD)
