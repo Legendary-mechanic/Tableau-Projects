@@ -1,4 +1,4 @@
-# Project-4
+# Project-1
 Dashboard Visualization Of Amazon Prime shows data using Tableau Public
 
 ## AIM OF THE PROJECT
